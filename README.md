@@ -8,7 +8,7 @@ My day-to-day stack: TypeScript / Node.js, GCP / GKE, PostgreSQL, Redis, Elastic
 
 Currently exploring AI-augmented development workflows, agentic systems, and platform tooling that compresses the distance between idea and production.
 
-**Find me:** [LinkedIn](https://www.linkedin.com/in/ethan-mccosby) · ethan.mccosby@gmail.com
+**Find me:** [visco.ci](https://visco.ci) · [LinkedIn](https://www.linkedin.com/in/ethan-mccosby) · ethan.mccosby@gmail.com
 
 ---
 
