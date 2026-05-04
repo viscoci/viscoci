@@ -14,8 +14,8 @@ Currently exploring AI-augmented development workflows, agentic systems, and pla
 
 #### Selected work
 
-- **[wedj](https://github.com/viscoci/wedj)** — Open-source Spotify queue management for events. Self-hostable, with a guided onboarding flow.
-- **[inversify-express-postman](https://github.com/viscoci/inversify-express-postman)** — Postman Collection exporter for InversifyJS + Express APIs.
+- **OpenDJ (WIP)** — Open-source Spotify queue management for events. Self-hostable, with a guided onboarding flow.
+- **[inversify-express-postman](https://github.com/viscoci/inversify-express-postman)** — Postman Collection exporter for InversifyJS + Express APIs. Needs TLC
 - More repos as I clean and open-source pieces of work I've built over the years.
 
 ---
